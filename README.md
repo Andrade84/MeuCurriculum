@@ -1,2 +1,2 @@
-# MeuCurriculum
-Curriculum web feito com HTML E CSS
+# MeuCurriculum Online
+Curriculum web feito com HTML E CSS para divulgação
